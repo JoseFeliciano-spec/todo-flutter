@@ -1,8 +1,8 @@
 import 'package:todo_flutter/context/tasks/domain/entities/task.dart';
 
 abstract class TaskRepository {
-  Future<List<Task>> getTasks();
-  Future<void> createTask(Task task);
-  Future<void> updateTask(Task task);
+  Future<Task> createTask(Task task);
   Future<void> deleteTask(String id);
+  Future<List<Task>> fetchTasks();
+  Future<Task> updateTask(Task task);
 }

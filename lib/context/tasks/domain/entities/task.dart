@@ -1,9 +1,9 @@
 class Task {
   final String id;
-  final String title;
-  final String description;
-  final String status;
-  final DateTime dueDate;
+  late final String title;
+  late final String description;
+  late final String status;
+  late final DateTime dueDate;
 
   Task({
     required this.id,
