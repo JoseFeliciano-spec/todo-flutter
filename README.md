@@ -27,7 +27,7 @@ Si no deseas crear un usuario para probar la aplicación, puedes utilizar el sig
 ## Capturas de Pantalla
 
 ### Bienvenida
-![form-screen-create-update](https://github.com/user-attachments/assets/a6d8e21e-2345-48da-b4c5-51c418a9a195)
+![welcome-screen](https://github.com/user-attachments/assets/7d72b051-c0a7-43fb-916d-6280424da348)
 
 ### Inicio de Sesión
 ![login-screen](https://github.com/user-attachments/assets/dee36b88-2187-41ab-bce9-1ddf88367315)
